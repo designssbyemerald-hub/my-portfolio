@@ -8,7 +8,7 @@ const projects = [
         description: 'A comprehensive sales analytics dashboard featuring interactive charts, KPI tracking, and real-time data visualization. Built with React and Recharts.',
         image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=500&fit=crop',
         tags: ['React', 'Recharts', 'Data Visualization', 'Analytics'],
-        liveUrl: '#',
+        liveUrl: 'https://salespulse-dashboard.vercel.app',
         githubUrl: 'https://github.com/designssbyemerald-hub'
     },
     {
@@ -17,7 +17,7 @@ const projects = [
         description: 'A modern restaurant ordering system with menu browsing, cart management, and checkout functionality. Features smooth animations and responsive design.',
         image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=500&fit=crop',
         tags: ['React', 'E-commerce', 'UI/UX', 'Responsive Design'],
-        liveUrl: '#',
+        liveUrl: 'https://chop-chop-restaurant-qas8.vercel.app',
         githubUrl: 'https://github.com/designssbyemerald-hub'
     }
 ];

@@ -20,7 +20,15 @@ const projects = [
         liveUrl: 'https://chop-chop-restaurant-qas8.vercel.app',
         githubUrl: 'https://github.com/designssbyemerald-hub'
     },
-    
+    {
+    id: 3,
+    title: 'TaskFlow Manager',
+    description: 'A beautiful task management app with categories, progress tracking, and real-time stats. Features local storage persistence and smooth animations.',
+    image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=500&fit=crop',
+    tags: ['React', 'LocalStorage', 'Task Management', 'UI/UX'],
+    liveUrl: 'https://task-manager-xyz.vercel.app',
+    githubUrl: 'https://github.com/designssbyemerald-hub/task-manager'
+  }
 ];
 
 const skills = [

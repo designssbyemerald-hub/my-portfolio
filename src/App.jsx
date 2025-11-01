@@ -20,14 +20,15 @@ const projects = [
         liveUrl: 'https://chop-chop-restaurant-qas8.vercel.app',
         githubUrl: 'https://github.com/designssbyemerald-hub'
     },
+    {
         id: 3,
         title: 'task manager',
         description: 'A responsive task management web app built with React that allows users to create, edit, and delete tasks with ease. It features dynamic filtering, completion tracking, and persistent data using local storage. Designed with a clean and modern interface for improved productivity.',
-        image: 'https://plus.unsplash.com/premium_photo-1721910821693-458e4d9a8377?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGFzayUyMG1hbmFnZW1lbnQlMjBhcHB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=800'
-        tags: ['React', 'Task Management', 'Analytics' 'UI/UX'],
-        liveUrl: 'https://task-manager-eta-ten-78.vercel.app'
+        image: 'https://plus.unsplash.com/premium_photo-1721910821693-458e4d9a8377?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGFzayUyMG1hbmFnZW1lbnQlMjBhcHB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=800',
+        tags: ['React', 'Task Management', 'Analytics', 'UI/UX'],
+        liveUrl: 'https://task-manager-eta-ten-78.vercel.app',
         githubUrl: 'https://github.com/designssbyemerald-hub'
-    },
+    }
 ];
 
 const skills = [

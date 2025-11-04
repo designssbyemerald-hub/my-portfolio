@@ -21,14 +21,23 @@ const projects = [
         githubUrl: 'https://github.com/designssbyemerald-hub'
     },
     {
-    id: 3,
-    title: 'TaskFlow Manager',
-    description: 'A beautiful task management app with categories, progress tracking, and real-time stats. Features local storage persistence and smooth animations.',
-    image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=500&fit=crop',
-    tags: ['React', 'LocalStorage', 'Task Management', 'UI/UX'],
-    liveUrl: 'https://task-manager-eta-ten-78.vercel.app',
-    githubUrl: 'https://github.com/designssbyemerald-hub/task-manager'
-  }
+        id: 3,
+        title: 'TaskFlow Manager',
+        description: 'A beautiful task management app with categories, progress tracking, and real-time stats. Features local storage persistence and smooth animations.',
+        image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=500&fit=crop',
+        tags: ['React', 'LocalStorage', 'Task Management', 'UI/UX'],
+        liveUrl: 'https://task-manager-eta-ten-78.vercel.app',
+        githubUrl: 'https://github.com/designssbyemerald-hub/task-manager'
+     },
+    {
+        id: 4,
+        title: 'NexaFlow',
+        description: 'A cutting-edge workflow automation platform designed to streamline business processes, enhance productivity, and create seamless digital experiences.',
+        image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=500&fit=crop',
+        tags: ['React', 'Automation', 'Business', 'SaaS'],
+        liveUrl: 'https://nexaflow-qu3l.vercel.app/',
+        githubUrl: 'https://github.com/designssbyemerald-hub/nexaflow'
+    }
     
 ];
 

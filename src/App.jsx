@@ -28,16 +28,8 @@ const projects = [
     tags: ['React', 'LocalStorage', 'Task Management', 'UI/UX'],
     liveUrl: 'https://task-manager-eta-ten-78.vercel.app',
     githubUrl: 'https://github.com/designssbyemerald-hub/task-manager'
-  },
-    {
-        id: 4,
-        title: 'NexaFlow',
-            description: 'Modern animated landing page for a cloud solutions company built with HTML, CSS, and vanilla JavaScript. Features smooth animations, parallax effects, and responsive design.',
-        image: 'https://plus.unsplash.com/premium_photo-1683120968693-9af51578770e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvdWQlMjBzb2x1dGlvbnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=800',
-        taggs: ['React', 'CloudStorage', 'UI/UX', 'Data Visualization'],
-        liveUrl: 'https://nexaflow-qu3l.vercel.app',
-        githubUrl: 'https://github.com/designssbyemerald-hub/nexaflow'
-    }
+  }
+    
 ];
 
 const skills = [

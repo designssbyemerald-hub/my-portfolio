@@ -37,7 +37,25 @@ const projects = [
         tags: ['React', 'Automation', 'Business', 'SaaS'],
         liveUrl: 'https://nexaflow-qu3l.vercel.app/',
         githubUrl: 'https://github.com/designssbyemerald-hub/nexaflow'
-    }
+    },
+    {   
+        id: 5,
+        title: 'ACME Dashboard',
+        description: 'A professional CRM/Sales dashboard featuring real-time KPI metrics, interactive charts for lead sources and revenue tracking, and a comprehensive company leads management system with search functionality.',
+        image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=500&fit=crop',
+        tags: ['React', 'Recharts', 'CRM', 'Dashboard', 'Data', 'Visualization' ],
+        liveUrl: 'https://acme-dashboard-liard.vercel.app/',
+        githubUrl: 'https://github.com/designssbyemerald-hub/acme-dashboard'
+    },
+    {
+        id: 6,
+        title: 'Code Snippet Manager',
+        description: 'A powerful code snippet manager for developers to organize, save, and quickly access their frequently used code snippets. Features syntax highlighting, categorization, and search functionality.',
+        image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=500&fit=crop',
+        tags: ['React', 'Code Management', 'Syntax Highlighting', 'Developer Tools' ],
+        liveUrl: 'https://code-snippet-manager-tej3.vercel.app/',
+        githubUrl: 'https://github.com/designssbyemerald-hub/code-snippet-manager'
+    },
     
 ];
 
